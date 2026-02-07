@@ -1,0 +1,1 @@
+This project demonstrates a simple yet effective video processing application built using Python and OpenCV. The program reads an input video, dynamically overlays randomized text at different positions, adds a bottom ribbon with descriptive information, and saves the processed output as a new video file.
